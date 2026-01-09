@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - motorola
+    - Samsung 
 
 ---
 
